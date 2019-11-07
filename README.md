@@ -5,4 +5,3 @@ A project as required by TOP
 Visit [published site etch-a-sketch](https://joshysmart.github.io/etch-a-sketch).
 
 
-Site  at https://joshysmart.github.io/etch-a-sketch/
