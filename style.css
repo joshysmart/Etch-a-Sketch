@@ -1,0 +1,30 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+ background: linear-gradient(blue, red);
+ background-attachment: fixed;
+}
+
+.container {
+ width: 40em;
+ height: 40em;
+ margin: auto;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-wrap: wrap;
+}
+
+.grid-item {
+ background: #ffffff;
+ border: 1px solid #000;
+}
+
+.wrapper {
+ text-align: center;
+ margin: 20px;
+ color: #fff;
+ font-size: 1.2em;
+}
