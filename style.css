@@ -4,7 +4,6 @@
 }
 
 body {
- background: -webkit-linear-gradient(blue, red);
  background: linear-gradient(blue, red);
  background-attachment: fixed;
 }
